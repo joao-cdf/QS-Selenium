@@ -1,5 +1,7 @@
 # QS-Selenium
 
+Master's Degree in Computer Science, Qualidade de Software, Universidade da Beira Interior
+
 - João Ferreira m10642
 - Luís David m10698
 
